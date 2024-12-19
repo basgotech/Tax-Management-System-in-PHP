@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "hookyqr.beautify",
+        "coenraads.bracket-pair-colorizer",
+        "thekalinga.bootstrap4-vscode",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-complete-tag",
+        "equinusocio.vsc-material-theme-icons",
+        "hansuxdev.bootstrap5-snippets"
+    ]
+}
